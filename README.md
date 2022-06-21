@@ -11,7 +11,7 @@
   <img align="center" alt="cleb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cleb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="cleb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="cleb-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Qxj14bQYHjoAAAAC/dragon-ball-z-dbz.gif">
+  <img align="right" alt="cleb-pic" height="150" style="border-radius:50px;" src="https://giffiles.alphacoders.com/185/185788.gif">
 
   
 </div>
