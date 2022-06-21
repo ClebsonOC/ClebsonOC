@@ -11,9 +11,10 @@
   <img align="center" alt="cleb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cleb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="cleb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="cleb-pic" height="150" style="border-radius:50px;" src="https://giffiles.alphacoders.com/185/185788.gif">
+  <img align="right" alt="cleb-pic" height="150" style="border-radius:50px;" src="![185788](https://user-images.githubusercontent.com/93064417/174694654-b0c1ede1-fed8-4bae-a438-7b0bf94e657a.gif)">
 
   
+
 </div>
   
   ##
