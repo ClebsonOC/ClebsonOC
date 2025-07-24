@@ -1,4 +1,4 @@
-# Olá, meu nome é Clebson de Oliveira Correia e estou aprendendo a programar! 👋
+# Clebson de Oliveira Correia! 👋
 
 ---
 
